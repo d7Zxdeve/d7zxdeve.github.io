@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/ramyella/WebstormProjects/side-project/myapp/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /Users/ramyella/Downloads/Portfolio/myapp/src/styles.css */"./src/styles.css");
 
 
 /***/ })
